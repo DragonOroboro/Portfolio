@@ -22,3 +22,6 @@ What was done:
 Links:  
 - [Original dataset on Kaggle](https://www.kaggle.com/code/amathiyazhagan2004/gold-high-prediction-regression-models-comparison)
 - [Slideshow of the presentation](https://www.canva.com/design/DAG-YuqcYyI/knRK_17qIlfdkfi1ULvQEQ/view?utm_content=DAG-YuqcYyI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1b3b3f4e8#1)
+
+Notes:
+- having problems uploading most of the project the missing files will be added ASAP (25/01/2026)
